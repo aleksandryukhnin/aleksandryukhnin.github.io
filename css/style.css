@@ -24,7 +24,7 @@ h2 {
 	max-width: 1170px;
 	width: 100%;
 	margin: 0 auto;
-	padding: 0 15px;
+	padding: 0 15px; /*Ãâ€˜ÃÂµÃÂ·ÃÂ¾ÃÂ¿ÃÂ°Ã‘ÂÃÂ½Ã‘â€¹ÃÂ¹ ÃÂ¾Ã‘â€šÃ‘ÂÃ‘â€šÃ‘Æ’ÃÂ¿ ÃÂ¿Ã‘â‚¬ÃÂ¸ Ã‘ÂÃÂ¶ÃÂ¸ÃÂ¼ÃÂ°ÃÂ½ÃÂ¸ÃÂ¸, ÃÂ°ÃÂ´ÃÂ°ÃÂ¿Ã‘â€šÃÂ°Ã‘â€ ÃÂ¸ÃÂ¸*/
 }
 
 .banner-main_center {
@@ -37,7 +37,7 @@ h2 {
 .banner-main {
     /*background-image: url(../images/bg-header.png);*/
     background-image: linear-gradient(120deg,#42b7a7,#2a4182);
-    background-size: cover;
+    background-size: cover; /*ÃÂ ÃÂ°ÃÂ·ÃÂ¼ÃÂµÃ‘â‚¬ÃÂ½ÃÂ¾Ã‘ÂÃ‘â€šÃ‘Å’ ÃÂ¿ÃÂ¾ ÃÂ·ÃÂ°ÃÂ´ÃÂ°ÃÂ½ÃÂ½Ã‘â€¹ÃÂ¼ Ã‘â‚¬ÃÂ°ÃÂ·ÃÂ¼ÃÂµÃ‘â‚¬ÃÂ°ÃÂ¼*/
     width: 100%;
     height: 800px;
     color: #ffffff;
@@ -50,7 +50,7 @@ h2 {
 }
 
 a.banner-main_link:hover, a.block-footer_link:hover {
-	background-color: transparent;
+	background-color: transparent; /*ÃÅ¸Ã‘â‚¬ÃÂ¾ÃÂ·Ã‘â‚¬ÃÂ°Ã‘â€¡ÃÂ½ÃÂ¾Ã‘ÂÃ‘â€šÃ‘Å’*/
 	color: #ffffff;
 }
 
@@ -218,6 +218,32 @@ a.banner-main_link, a.block-footer_link {
     width: 100%;
     position: relative;
     padding: 95px 0;
+}
+
+.block__works {
+	display: flex;
+	justify-content: space-around;
+}
+
+.block__works a {
+    text-decoration: none;
+    color: #17528e;
+    font-size: 20px;
+}
+
+.block__works a:after {
+	content: '';
+    width: 0;
+    height: 3px;
+    display: block;
+	background-color: #41d4df;
+	transition: 0.3s;
+}
+
+.block__works a:hover:after {
+	content: '';
+	width: 100%;
+    display: block;
 }
 
 .block-footer h2 {
