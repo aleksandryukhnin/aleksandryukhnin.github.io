@@ -1,0 +1,12 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 60 60" xml:space="preserve" data-shift="y" data-animoptions="{'duration':'0.5', 'repeat':'2', 'repeatDelay':'0'}" preserveAspectRatio="xMinYMin meet" style="left: 0.5px; top: 0px;"><g class="lievo-setrotation"><g class="lievo-setsharp"><g class="lievo-setflip"><g class="lievo-main">
+    
+    <g class="lievo-solidicon">
+      <circle fill="#d1d1d1" stroke="#d1d1d1" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" cx="30" cy="30" r="23" stroke-linejoin="miter" style=""></circle>
+      <g data-svg-origin="17 21" style="transform: matrix(1, 0, 0, 1, 0, 0);">
+        <line class="lievo-solidbg" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="39.3" y1="30" x2="17" y2="30" stroke-linejoin="miter" style=""></line>
+        <polyline class="lievo-solidbg" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" points="32,21 41,30 32,39" stroke-linejoin="miter" style=""></polyline>
+      </g>
+    </g>
+  <rect x="-19" y="-20" width="4" height="4" fill="none" stroke="#d1d1d1" style="stroke-width: 2; stroke-linecap: butt; stroke-linejoin: round; opacity: 0;" class="lievo-checkshift lievo-donotdraw lievo-nohoverstroke lievo-nohovercolor" stroke-linecap="square" stroke-linejoin="miter"></rect></g></g></g></g>
+  
+<desc>LivIcons Evolution</desc><defs></defs></svg>
