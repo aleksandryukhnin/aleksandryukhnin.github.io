@@ -26,7 +26,7 @@ body {
 }
 
 .feedback__btn-close {
-    background-image: url(../image/btn-close.png);
+    background-image: url(../images/btn-close.png);
     background-repeat: no-repeat;
     width: 27px;
     height: 27px;
@@ -197,7 +197,7 @@ header {
     margin: 0 auto;
     z-index: 2;
     overflow: hidden;
-    background-image: url(../image/around.png);
+    background-image: url(../images/around.png);
     display: block;
     height: 60px;
     width: 60px;
@@ -213,7 +213,7 @@ a.rslides_nav.rslides1_nav.next {
     position: absolute;
     margin: 0 auto;
     z-index: 2;
-    background-image: url(../image/around.png);
+    background-image: url(../images/around.png);
     height: 60px;
     width: 60px;
     display: block;
@@ -290,7 +290,7 @@ nav span {
 
 /*.menu_ul li:after {
 	content: '';
-    background-image: url(../image/vertical-line.png);
+    background-image: url(../images/vertical-line.png);
     position: absolute;
     width: 2px;
     height: 27px;
@@ -372,7 +372,7 @@ ul.left-block__menu {
 
 .left-block__menu__submenu li:before {
 	content: '';
-	background-image: url('../image/marker.png');
+	background-image: url('../images/marker.png');
 	height: 6px;
 	width: 8px;
 	/* border: 1px solid #767676; */
@@ -486,7 +486,7 @@ p.price {
 }
 
 .center-block__tovar__item__price {
-	background-image: url(../image/shoping.png);
+	background-image: url(../images/shoping.png);
 	background-repeat: no-repeat;
 	background-position: 180px 12px;
 }
@@ -516,7 +516,7 @@ footer {
 }
 
 .container__footer__logo {
-	background-image: url(../image/logo-footer.png);
+	background-image: url(../images/logo-footer.png);
 	background-repeat: no-repeat;
 	background-position: 0 7px;
 	padding: 0 0 0 45px;
