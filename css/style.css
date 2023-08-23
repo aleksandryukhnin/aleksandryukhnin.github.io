@@ -311,7 +311,7 @@ a.block-footer_link {
     z-index: -1;
 }
 
---------------------------Media-запросы------------------
+/*--------------------------Media-запросы------------------*/
 
 @media (max-height: 650px) {
 	.body {
@@ -388,9 +388,9 @@ a.block-footer_link {
 		align-items: center;
 	}
 
-	.flexbox_item__link {
+	/*.flexbox_item__link {
 
-	}
+	}*/
 
 	.flexbox-works{
 		margin-bottom: 30px;
@@ -530,4 +530,4 @@ a.block-footer_link {
 	}
 }
 
---------------------------Media-запросы------------------*/
+/*--------------------------Media-запросы------------------*/
